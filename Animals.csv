@@ -1,4 +1,4 @@
-Species,BodyWeight,BrainWeight,Brain-to-Body-Weight_Proportion
+Species,BodyWeight(kg),BrainWeight(kg),Brain-to-Body-Weight_Proportion
 Newborn_Human,3.2,0.374984813,0.117182754
 Adult_Human,73,1.349981613,0.018492899
 Pithecanthropus_Man,70,0.925010921,0.013214442
