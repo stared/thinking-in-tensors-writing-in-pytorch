@@ -1,3 +1,6 @@
+data/
+random/
+
 .ipynb_checkpoints/
 
 *.pyc
