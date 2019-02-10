@@ -31,6 +31,14 @@ I struggled to find something in the middle ground - showing mathematical founda
 Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers.
 
 
+## Style
+
+* Start with concrete examples first
+* First 1d, then more
+* Equations in LaTeX AND PyTorch
+* `x.matmul(y).pow(2).sum()` not `torch.sum(torch.matmul(x, y) ** 2)`
+
+
 ## Adverts
 
 A few links of mine:
