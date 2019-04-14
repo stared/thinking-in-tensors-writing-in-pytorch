@@ -1,0 +1,27 @@
+---
+jupyter:
+  jupytext:
+    formats: ipynb,Rmd
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.0'
+      jupytext_version: 1.0.5
+  kernelspec:
+    display_name: Python [default]
+    language: python
+    name: python3
+---
+
+```{python}
+x = [1, 3, 5]
+```
+
+```{python}
+for xi in x:
+    print(xi**2)
+```
+
+```{python}
+
+```
