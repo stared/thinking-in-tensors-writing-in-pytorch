@@ -2,7 +2,10 @@
 
 A hands-on deep learning introduction, from pieces.
 
+For an interactive, installation-free version, use Colab: https://colab.research.google.com/github/stared/thinking-in-tensors-writing-in-pytorch/
+
 By [Piotr Migdał](https://p.migdal.pl/) et al. (Weronika Ormaniec, possibly others)
+
 
 > “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”  ― Richard Feynman
 
