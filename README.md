@@ -30,7 +30,7 @@ When it comes to the mathematical background, [Deep Learning Book](https://www.d
 
 I struggled to find something in the middle ground - showing mathematical foundations of deep learning, step by step, at the same time translating it into code. The closest example is [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) (which is, IMHO, a masterpiece). Though, I believe that instead of using NumPy we can use PyTorch, giving a smooth transition between mathematic ideas and a practical, working code.
 
-Of course, there are quite a few awesome posts, notebooks and visualizations
+Of course, there are quite a few awesome posts, notebooks and visualizations. I try to link to the ones that are useful for reader. In particular, I maintain a collaborative list of [Interactive Machine Learning, Deep Learning and Statistics websites](https://p.migdal.pl/interactive-machine-learning-list/).
 
 
 ## Contribute!
