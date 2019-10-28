@@ -37,6 +37,8 @@ Of course, there are quite a few awesome posts, notebooks and visualizations. I 
 
 Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers.
 
+If you like that consider [sponsoring it](https://github.com/sponsors/stared). It will give me time to work on this project!
+
 
 ## Style
 
