@@ -30,12 +30,14 @@ When it comes to the mathematical background, [Deep Learning Book](https://www.d
 
 I struggled to find something in the middle ground - showing mathematical foundations of deep learning, step by step, at the same time translating it into code. The closest example is [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) (which is, IMHO, a masterpiece). Though, I believe that instead of using NumPy we can use PyTorch, giving a smooth transition between mathematic ideas and a practical, working code.
 
-Of course, there are quite a few awesome posts, notebooks and visualizations
+Of course, there are quite a few awesome posts, notebooks and visualizations. I try to link to the ones that are useful for reader. In particular, I maintain a collaborative list of [Interactive Machine Learning, Deep Learning and Statistics websites](https://p.migdal.pl/interactive-machine-learning-list/).
 
 
 ## Contribute!
 
 Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers.
+
+If you like that consider [sponsoring it](https://github.com/sponsors/stared). It will give me time to work on this project!
 
 
 ## Style
@@ -50,6 +52,7 @@ Crucially, this course is for you, the reader. If you are interested in one topi
 
 A few links of mine:
 
+* [Learning deep learning wth Keras](https://p.migdal.pl/2017/04/30/teaching-deep-learning.html) - an overview of deep learning (what's that? what one should learn before); post from 2017 but surprisingly up-to-date
 * My deep learning framework credo: [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
 * [Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning ](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/)
 * [My general overview of “how to start data science”](https://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html) (turns out - not only for math/phys background; though, I intend to write a separate text for non-STEM backgrounds)
