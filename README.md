@@ -57,4 +57,9 @@ A few links of mine:
 * [Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning ](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/)
 * [My general overview of “how to start data science”](https://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html) (turns out - not only for math/phys background; though, I intend to write a separate text for non-STEM backgrounds)
 * [Quantum Tensors](https://github.com/stared/quantum-tensors) - a JavaScript / TypeScript package for sparse tensor operations on complex numbers. For example for quantum computing, quantum information, and well - the Quantum Game.
+* [Simple diagrams of convoluted neural networks](https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b) - on deep learning architecture visualizations
 * I am an independent AI consultant, specializing in giving hands-on trainings in deep learning (and general machine learning). If you are interested in a workshop, let me know at [p.migdal.pl](https://p.migdal.pl/)!
+
+```python
+
+```
