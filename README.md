@@ -11,6 +11,12 @@ By [Piotr Migdał](https://p.migdal.pl/) et al. (Weronika Ormaniec, possibly oth
 
 > “Scientists start out doing work that's perfect, in the sense that they're just trying to reproduce work someone else has already done for them. Eventually, they get to the point where they can do original work. Whereas hackers, from the start, are doing original work; it's just very bad. So hackers start original, and get good, and scientists start good, and get original.” - Paul Graham in [Hackers and Painters](http://www.paulgraham.com/hp.html)
 
+## Supporters
+
+This project supported by: [Jacek Migdał](http://jacek.migdal.pl/), [Marek Cichy](https://medium.com/@marekkcichy/). [Join the sponsors - show your ❤️ and support](https://github.com/sponsors/stared)! It will give me time and energy to work on this project!
+
+This project benefited from [University of Silesia in Katowice](http://english.us.edu.pl/) course, which they let me to open source.
+
 ## What's that?
 
 Mathematical concepts behind deep learning using PyTorch 1.0.
@@ -35,9 +41,7 @@ Of course, there are quite a few awesome posts, notebooks and visualizations. I 
 
 ## Contribute!
 
-Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers.
-
-If you like that consider [sponsoring it](https://github.com/sponsors/stared). It will give me time to work on this project!
+Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers. 
 
 
 ## Style
@@ -59,7 +63,3 @@ A few links of mine:
 * [Quantum Tensors](https://github.com/stared/quantum-tensors) - a JavaScript / TypeScript package for sparse tensor operations on complex numbers. For example for quantum computing, quantum information, and well - the Quantum Game.
 * [Simple diagrams of convoluted neural networks](https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b) - on deep learning architecture visualizations
 * I am an independent AI consultant, specializing in giving hands-on trainings in deep learning (and general machine learning). If you are interested in a workshop, let me know at [p.migdal.pl](https://p.migdal.pl/)!
-
-```python
-
-```
